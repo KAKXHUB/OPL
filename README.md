@@ -145,7 +145,6 @@ while _G.Farm do wait()
         game:GetService("Workspace").Enemies["Lv440 Buster"].Humanoid.Health = 0
         wait(.1)
         end
-        end
     end
 )
 
