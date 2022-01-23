@@ -1,7 +1,7 @@
 local DiscordLib =
     loadstring(game:HttpGet "https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/discord")()
 
-local win = DiscordLib:Window("KAk HUB ")
+local win = DiscordLib:Window("KAK HUB ")
 
 local serv = win:Server("One Piece Legendary", "")
 
